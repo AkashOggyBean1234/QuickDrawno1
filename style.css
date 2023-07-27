@@ -1,0 +1,22 @@
+body
+{
+    background-color: rgb(104, 241, 104);
+}
+
+#myScore
+{
+    font-size: 15px;
+    margin: left 5px;
+}
+
+#myTimer
+{
+    font-size: 15px;
+    float: right;
+    margin: right 5px;
+}
+
+#sketchName2
+{
+    color: cornflowerblue;
+}
